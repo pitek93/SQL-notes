@@ -1,2 +1,2 @@
 # SQL-notes
-xyz
+SQL tutorial + ORM project in Django
